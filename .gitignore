@@ -1,0 +1,11 @@
+Cargo.lock
+*.swp
+.idea
+.DS_Store
+build
+
+
+# Aptos CLI / local testnet files
+.aptos
+gas-profiling
+**/*.rdb
